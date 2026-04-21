@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 🌺
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+de+Sistemas;Sempre+aprendendo+coisas+novas&font=Fira%20Code&center=false&width=500&height=45">
@@ -8,18 +8,17 @@ Desenvolvedora, focado(a) em construir soluções modernas, eficientes e escalá
 
 ---
 
-## 🧭 Sobre mim
+## 🌸 Sobre mim
 
-* 💻 Focado em: **[sua área — ex: Full Stack]**
 * 📚 Estudando: **[tecnologia atual]**
 * 🚀 Evoluindo em: **boas práticas, arquitetura e performance**
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🌸 Stack Tecnológica
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,postgres,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,git" />
 </p>
 
 ---
@@ -41,26 +40,10 @@ Desenvolvedora, focado(a) em construir soluções modernas, eficientes e escalá
 
 ---
 
-## 🐍 Contribuições animadas
-
-<p align="center">
-  <img src="https://github.com/SEU-USUARIO/AANAPRADO/blob/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-## 🚀 Projetos em Destaque
-
-* 🔹 **[Projeto 1]** — descrição curta e impacto
-* 🔹 **[Projeto 2]** — tecnologia usada + objetivo
-* 🔹 **[Projeto 3]** — diferencial do projeto
-
----
-
 ## 🌐 Contato
 
 <p align="left">
-  <a href="https://linkedin.com/in/seu-perfil">
+  <a href="https://linkedin.com/in/ana-beatriz-campos-do-prado-sena-lima-59421437b">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:seuemail@email.com">
