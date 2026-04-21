@@ -1,10 +1,10 @@
-# 🌺
+# 🌸 Olá, eu sou Ana Beatriz!
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+de+Sistemas;Sempre+aprendendo+coisas+novas&font=Fira%20Code&center=false&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+de+Sistemas;Sempre+aprendendo+coisas+novas&font=Fira%20Code&color=FF69B4&center=false&width=500&height=45">
 </p>
 
-Desenvolvedora, focado(a) em construir soluções modernas, eficientes e escaláveis.
+Desenvolvedora apaixonada por criar soluções modernas, eficientes e escaláveis 💗
 
 ---
 
@@ -23,32 +23,30 @@ Desenvolvedora, focado(a) em construir soluções modernas, eficientes e escalá
 
 ---
 
-## 📊 Estatísticas
+## 🌸 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AANAPRADO&show_icons=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AANAPRADO&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AANAPRADO&show_icons=true&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=000000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AANAPRADO&layout=compact&title_color=FF69B4&text_color=FF69B4&bg_color=000000"/>
 </p>
 
 ---
 
-## 🔥 Atividade
+## 🌸 Atividade
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AANAPRADO"/>
+  <img src="https://streak-stats.demolab.com?user=AANAPRADO&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&background=000000"/>
 </p>
 
 ---
 
-## 🌐 Contato
+## 🌸 Contato
 
 <p align="left">
   <a href="https://linkedin.com/in/ana-beatriz-campos-do-prado-sena-lima-59421437b">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-FF69B4?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-
