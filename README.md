@@ -1,4 +1,4 @@
-# 🌸
+# 
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+de+Sistemas;Sempre+aprendendo+coisas+novas&font=Fira%20Code&color=FFB6C1&center=false&width=500&height=45">
@@ -32,7 +32,7 @@ Desenvolvedora apaixonada por criar soluções modernas, eficientes e escalávei
 
 ---
 
-## 🌸 Atividade
+## 📚 Atividade
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AANAPRADO&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FF69B4&background=FFFACD"/>
@@ -40,7 +40,7 @@ Desenvolvedora apaixonada por criar soluções modernas, eficientes e escalávei
 
 ---
 
-## 🌼 Contato
+## 💬 Contato
 
 <p align="left">
   <a href="https://linkedin.com/in/ana-beatriz-campos-do-prado-sena-lima-59421437b">
