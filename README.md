@@ -1,7 +1,7 @@
 # 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+de+Sistemas;Sempre+aprendendo+coisas+novas&font=Fira%20Code&color=FFB6C1&center=false&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DESENVOLVEDORA+DE+SISTEMAS;Sempre+aprendendo+coisas+novas&font=Fira%20Code&color=FFB6C1&center=false&width=500&height=45">
 </p>
 
 Desenvolvedora apaixonada por criar soluções modernas, eficientes e escaláveis 
@@ -26,8 +26,8 @@ Desenvolvedora apaixonada por criar soluções modernas, eficientes e escalávei
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AANAPRADO&show_icons=true&title_color=FFB6C1&icon_color=FFB6C1&text_color=FF69B4&bg_color=FFFACD"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AANAPRADO&layout=compact&title_color=FFB6C1&text_color=FF69B4&bg_color=FFFACD"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AANAPRADO&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AANAPRADO&layout=compact"/>
 </p>
 
 ---
@@ -35,7 +35,7 @@ Desenvolvedora apaixonada por criar soluções modernas, eficientes e escalávei
 ## 📚 Atividade
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AANAPRADO&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FF69B4&background=FFFACD"/>
+  <img src="https://streak-stats.demolab.com?user=AANAPRADO&fire=FFB6C1&"/>
 </p>
 
 ---
