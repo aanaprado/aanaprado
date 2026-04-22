@@ -10,7 +10,7 @@ Desenvolvedora apaixonada por criar soluções modernas, eficientes e escalávei
 
 ## 💻 Sobre mim
 
-* 📚 Cursando: **Bacharelado em Ciência e Tecnologia** -UFABC
+* 📚 Cursando: **Bacharelado em Ciência e Tecnologia** - UFABC
 * 🚀 Evoluindo em: **boas práticas, arquitetura e performance**
 
 ---
