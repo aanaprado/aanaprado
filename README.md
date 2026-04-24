@@ -18,7 +18,7 @@ Desenvolvedora apaixonada por criar soluções modernas, eficientes e escalávei
 ## 🖱 Stack Tecnológica
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,nodejs,css,php,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,php,mysql,mongo" />
 </p>
 
 ---
